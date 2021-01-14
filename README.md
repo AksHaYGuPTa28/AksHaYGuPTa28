@@ -4,10 +4,9 @@
 ## I'm a a budding web developer!!
 
 - 🌱 I’m currently learning everything 
-- ✍️ I’m looking to land a good job 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Want to contribute more to open source community this year.
+- 👨‍💻 2021 Goals: Land a good job
 - ⚡ Fun fact: I love to play cricket and listen music
-
 
 ### Connect with me:
 
