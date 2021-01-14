@@ -4,7 +4,7 @@
 ## I'm a a budding web developer!!
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to land a good job 
+- ✍️ I’m looking to land a good job 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen music
 
@@ -15,6 +15,8 @@
 [<img align="left" alt="AksHaYGuPTa28 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+<img align="right" alt="GIF" src="https://dribbble.com/shots/1712148-Coder-gif?utm_source=Clipboard_Shot&utm_campaign=unabellapalla&utm_content=Coder%20%5Bgif%5D&utm_medium=Social_Share" width="500" height="320" />
 
 ### Languages and Tools:
 
