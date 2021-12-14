@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 
 - 🥅 Want to contribute more to open source community this year.
-- 👨‍💻 2021 Goals: Land a good job
+- 👨‍💻 2022 Goals: Strengthen my coding concepts more
 - ⚡ Fun fact: I love to play cricket and listen music
 
 ### Connect with me:
