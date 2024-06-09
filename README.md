@@ -1,7 +1,7 @@
 ### Hi there, I'm Akshay Gupta 👋
 
 
-## I'm a a budding web developer!!
+## I'm a a Senior MERN stack developer!!
 
 - 🌱 I’m currently learning everything 
 - 🥅 Want to contribute more to open source community this year.
