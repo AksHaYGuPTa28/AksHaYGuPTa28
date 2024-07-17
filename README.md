@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AksHaYGuPTa28 | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0A66C2;" />][linkedin]
 [<img align="left" alt="AksHaYGuPTa28 | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
